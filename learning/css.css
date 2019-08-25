@@ -1,0 +1,8 @@
+body{
+background-color:lightblue;
+background-image:url("koala.jpg");
+background-position:right top;
+background:#ffffff url("koala.jpg")no-repeat
+right top;
+background-attachment:fixed;
+}

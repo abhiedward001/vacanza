@@ -1,0 +1,8 @@
+body{
+background-color:lightblue;
+background-image:url("C:\Users\Public\Pictures\Sample Pictures");
+background-position:right top;
+background:#ffffff url("C:\Users\Public\Pictures\Sample Pictures")no-repeat
+right top;
+background-attachment:fixed;
+}
